@@ -4,6 +4,14 @@ body{
     padding-top:100px;
 }
 
+#carousel-example-generic{
+    margin: 40px 0px;
+} 
+
+#carousel-example-generic img{
+    width:100%;
+    height:auto;
+}
 
 .text-banner {
     text-align: center;
